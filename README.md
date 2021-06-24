@@ -2,6 +2,8 @@
 
 > A simple Tic Tac Toe game 
 
+[Live demo](https://samirm00.github.io/tic-tac-toe/)
+
 ## Table of contents
 
 - [General info](#general-info)
