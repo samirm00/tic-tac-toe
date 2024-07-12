@@ -1,0 +1,129 @@
+# Node modules directory
+node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+jspm_packages/
+
+# IDE and editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Build directories and files
+dist/
+build/
+coverage/
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# Webpack output
+*.bundle.js
+*.bundle.js.map
+
+# Yarn files
+.yarn/
+.pnp.*
+.yarnrc.yml
+
+# Parcel-bundler cache directory
+.cache/
+
+# Next.js build output
+.next/
+out/
+
+# Nuxt.js build output
+.nuxt/
+dist/
+
+# Svelte build output
+public/build/
+
+# Storybook build output
+.storybook-out/
+
+# VuePress build output
+.vuepress/dist/
+
+# Gridsome build output
+dist/
+
+# FuseBox cache
+.fusebox/
+
+# Stylelint
+.stylelintcache
+
+# Temporary test files
+coverage/
+.nyc_output/
+
+# Ignore Puppeteer/Playwright local testing binaries
+.puppeteer/
+.playwright/
+
+# Ignore cypress test directories and files
+cypress/screenshots/
+cypress/videos/
+
+# TernJS port file
+.tern-port
+
+# Ignore eslint cache
+.eslintcache
+
+# Ignore Prettier cache
+.prettiercache
+
+# Serverless directories and files
+.serverless/
+
+# Optional npm cache directory
+.npm/
+
+# Jest coverage directory
+jest/
+
+# WebStorm IDE files
+.idea/
+.idea/
+# WebStorm IDE files
+.idea/
+
+# VS Code settings
+.vscode/
+.vscode-test/
+
+# Localstack directories and files
+.localstack/
+
+# Ignore IntelliJ IDEA workspace files
+.idea/
+*.iml
