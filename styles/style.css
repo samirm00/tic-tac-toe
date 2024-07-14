@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
-/* styles.css */
-body {
+body
+{
     font-family: 'Poppins', sans-serif;
     display: flex;
     justify-content: center;
@@ -11,11 +11,13 @@ body {
     margin: 0;
 }
 
-.container {
+.container
+{
     text-align: center;
 }
 
-.game-board {
+.game-board
+{
     display: grid;
     grid-template-columns: repeat(3, 100px);
     grid-template-rows: repeat(3, 100px);
@@ -23,7 +25,8 @@ body {
     margin: 20px auto;
 }
 
-.cell {
+.cell
+{
     width: 100px;
     height: 100px;
     background-color: #fff;
@@ -36,17 +39,20 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.cell:hover {
+.cell:hover
+{
     background-color: #f9f9f9;
 }
 
-button {
+button
+{
     padding: 10px 20px;
     font-size: 1em;
     cursor: pointer;
 }
 
-#status {
+#status
+{
     margin-top: 20px;
     font-size: 1.2em;
     color: #333;
